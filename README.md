@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**zelda19/zelda19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Ceejay Maghanoy</h1>
+<h3 align="center">Aspiring Game Developer</h3>
 
-Here are some ideas to get you started:
+### 🎮 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 I'm currently working on **[simple farm game](https://github.com/zelda19/godot_farm)**
+- 🌱 I'm currently learning **Unity / Unreal Engine / Godot**
+- 🎨 I'm practicing **pixel art / 3D modeling / game design**
+- 🏆 Goals: **Ship a complete game and land a role in the game industry**
+- 📫 How to reach me: **ceejaymaghanoy1@gmail.com**
+
+---
