@@ -79,3 +79,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40"/> 
   </a>
 </p>
+
+### 🏗️ Projects
+
+| Project | Tech Stack | Status | Description |
+|---|---|---|---|
+| [Home Server Setup](https://github.com/zelda19) | Fedora, SSH, Jellyfin, Samba | ✅ Complete | HP ProBook 455G4 as home media server |
+| [Inventory Management System](https://github.com/zelda19) | Excel, VBA | ✅ Complete | Automated reorder alerts + dashboard |
+| [League of Legends Champion Finder](https://github.com/zelda19) | HTML, CSS, JavaScript | ✅ Complete | Web app for champion lookup |
+| [Gas Leak Detection App](https://github.com/zelda19) | Flutter, Firebase | ✅ Complete | Mobile app for gas leak monitoring |
+
