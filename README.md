@@ -14,6 +14,9 @@
 
 ---
 ### 🛠️ Game Dev Stack
+ <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/> 
+  </a>
 #### Languages
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
