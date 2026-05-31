@@ -89,3 +89,14 @@
 | [League of Legends Champion Finder](https://github.com/zelda19) | HTML, CSS, JavaScript | ✅ Complete | Web app for champion lookup |
 | [Gas Leak Detection App](https://github.com/zelda19) | Flutter, Firebase | ✅ Complete | Mobile app for gas leak monitoring |
 
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/ceejaymaghanoy" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:ceejaymaghanoy1@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+  </a>
+</p>
+
