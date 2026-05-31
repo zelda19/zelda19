@@ -8,7 +8,7 @@
 - 🌱 I'm currently learning **Godot**
 - 🎨 I'm practicing **pixel art / 3D modeling / game design**
 - 🏆 Goals: **Ship a complete game and land a role in the game industry**
-- 💼 IT Intern at **National Water Resources Board (NWRB)** | Dec 2024 – Mar 2025
+- 💼 IT Intern at **National Water Resources Board (NWRB)**
 - 🎓 **BS Information Technology** — ICCT Colleges (Graduated Dec 2025)
 - 📫 How to reach me: **ceejaymaghanoy1@gmail.com**
 
