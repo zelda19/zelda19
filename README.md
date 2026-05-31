@@ -88,12 +88,3 @@
 | [Inventory Management System](https://github.com/zelda19) | Excel, VBA | ✅ Complete | Automated reorder alerts + dashboard |
 | [League of Legends Champion Finder](https://github.com/zelda19) | HTML, CSS, JavaScript | ✅ Complete | Web app for champion lookup |
 | [Gas Leak Detection App](https://github.com/zelda19) | Flutter, Firebase | ✅ Complete | Mobile app for gas leak monitoring |
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zelda19&show_icons=true&theme=radical&title_color=00ff00&icon_color=00ff00" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zelda19&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
-</p>
