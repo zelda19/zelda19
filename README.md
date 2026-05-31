@@ -5,7 +5,7 @@
 ### 🎮 About Me
 
 - 🎯 I'm currently working on **[simple farm game](https://github.com/zelda19/godot_farm)**
-- 🌱 I'm currently learning **Unity / Unreal Engine / Godot**
+- 🌱 I'm currently learning **Godot**
 - 🎨 I'm practicing **pixel art / 3D modeling / game design**
 - 🏆 Goals: **Ship a complete game and land a role in the game industry**
 - 💼 IT Intern at **National Water Resources Board (NWRB)** | Dec 2024 – Mar 2025
