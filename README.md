@@ -11,3 +11,7 @@
 - 📫 How to reach me: **ceejaymaghanoy1@gmail.com**
 
 ---
+### 🛠️ Game Dev Stack
+ <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/> 
+  </a>
