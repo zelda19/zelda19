@@ -33,7 +33,7 @@ Aspiring game developer. Currently learning Godot.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL" title="MySQL"> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="30" height="30" alt="Firebase" title="Firebase">
 
-**Tools**
+**Tools (Arch btw)**
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30" alt="Git" title="Git"> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" title="VS Code"> &nbsp;
