@@ -11,14 +11,16 @@
 - 💼 IT Intern at **National Water Resources Board (NWRB)**
 - 🎓 **BS Information Technology** — ICCT Colleges (Graduated Dec 2025)
 - 📫 How to reach me: **ceejaymaghanoy1@gmail.com**
+  
+### 🎮 Favorite games
 
-  ---
-### 🕹️ Fav games
+| Game | Genre | Vibe |
+|---|---|---|
+| 🦋 Hollow Knight: Silksong | Metroidvania | peak |
+| 🌾 Stardew Valley | Farming / RPG | All-time fav |
+| 🗡️ Hollow Knight | Metroidvania | 10/10 |
+| 🌿 BOTW | Open World | Masterpiece |
 
-![Silksong](https://img.shields.io/badge/Hollow%20Knight%3A%20Silksong-Waiting...-black?style=for-the-badge)
-![Hollow Knight](https://img.shields.io/badge/Hollow%20Knight-10%2F10-black?style=for-the-badge)
-
----
 ### 🛠️ Game Dev Stack
  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/> 
