@@ -84,7 +84,6 @@
 
 | Project | Tech Stack | Status | Description |
 |---|---|---|---|
-| [Home Server Setup](https://github.com/zelda19) | Fedora, SSH, Jellyfin, Samba | ✅ Complete | HP ProBook 455G4 as home media server |
-| [Inventory Management System](https://github.com/zelda19) | Excel, VBA | ✅ Complete | Automated reorder alerts + dashboard |
-| [League of Legends Champion Finder](https://github.com/zelda19) | HTML, CSS, JavaScript | ✅ Complete | Web app for champion lookup |
+| [Home Server Setup](https://github.com/zelda19/Home-Server) | Fedora, SSH, Jellyfin, Samba | ✅ Complete | HP ProBook 455G4 as home media server |
+| [Inventory Management System](https://github.com/zelda19/inventory-management-system) | Excel, VBA | ✅ Complete | Automated reorder alerts + dashboard |
 | [Gas Leak Detection App](https://github.com/zelda19) | Flutter, Firebase | ✅ Complete | Mobile app for gas leak monitoring |
