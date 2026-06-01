@@ -1,6 +1,6 @@
 # Hi, I'm Ceejay 👋
 
-Aspiring game developer. Currently shipping my first farm game and learning Godot.
+Aspiring game developer. Currently learning Godot.
 
 ---
 
