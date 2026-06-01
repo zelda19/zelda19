@@ -12,7 +12,7 @@
 - 🎓 **BS Information Technology** — ICCT Colleges (Graduated Dec 2025)
 - 📫 How to reach me: **ceejaymaghanoy1@gmail.com**
   
-### 🎮 Favorite games
+### Favorite games
 
 | Game | Genre | Vibe |
 |---|---|---|
