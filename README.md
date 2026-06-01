@@ -72,10 +72,6 @@
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/> 
   </a>
-  <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40"/> 
-  </a>
-</p>
 
 ### 🏗️ Projects
 
