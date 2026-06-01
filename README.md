@@ -12,6 +12,12 @@
 - 🎓 **BS Information Technology** — ICCT Colleges (Graduated Dec 2025)
 - 📫 How to reach me: **ceejaymaghanoy1@gmail.com**
 
+  ---
+### 🕹️ Fav games
+
+![Silksong](https://img.shields.io/badge/Hollow%20Knight%3A%20Silksong-Waiting...-black?style=for-the-badge)
+![Hollow Knight](https://img.shields.io/badge/Hollow%20Knight-10%2F10-black?style=for-the-badge)
+
 ---
 ### 🛠️ Game Dev Stack
  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> 
