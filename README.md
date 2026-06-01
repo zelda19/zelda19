@@ -1,4 +1,4 @@
-# Hi, I'm Ceejay 👋
+# Hi,👋 I'm Ceejay Maghanoy
 
 Aspiring game developer. Currently learning Godot.
 
