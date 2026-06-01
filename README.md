@@ -17,23 +17,28 @@ Aspiring game developer. Currently learning Godot.
 
 ### Tech Stack
 
-**Game Dev**
-- Godot
-- VS Code
+**Game Dev & Languages**
 
-**Languages**
-- Java, Python, JavaScript
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="30" height="30" alt="Godot" title="Godot"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="Java" title="Java"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python" title="Python"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript" title="JavaScript"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30" height="30" alt="Flutter" title="Flutter">
 
-**Mobile & Web**
-- Flutter, HTML/CSS, Flask
+**Web & Backend**
 
-**Databases**
-- MySQL, Firebase
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5" title="HTML5"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" alt="CSS3" title="CSS3"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="30" height="30" alt="Flask" title="Flask"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL" title="MySQL"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="30" height="30" alt="Firebase" title="Firebase">
 
 **Tools**
-- Git, VS Code, Linux (Arch btw)
 
----
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30" alt="Git" title="Git"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" title="VS Code"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" alt="Linux" title="Linux"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="30" height="30" alt="Arch Linux" title="Arch Linux">
 
 ### Projects
 
