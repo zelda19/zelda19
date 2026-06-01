@@ -16,10 +16,10 @@
 
 | Game | Genre | Vibe |
 |---|---|---|
-| 🦋 Hollow Knight: Silksong | Metroidvania | peak |
-| 🌾 Stardew Valley | Farming / RPG | All-time fav |
-| 🗡️ Hollow Knight | Metroidvania | 10/10 |
-| 🌿 BOTW | Open World | Masterpiece |
+| Hollow Knight: Silksong | Metroidvania | peak |
+| Stardew Valley | Farming / | All-time fav |
+| Hollow Knight | Metroidvania | 10/10 |
+| BOTW | Open World | Masterpiece |
 
 ### 🛠️ Game Dev Stack
  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> 
