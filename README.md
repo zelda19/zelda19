@@ -9,7 +9,7 @@ Aspiring game developer. Currently learning Godot.
 - 🎮 Working on a **[simple farm game](https://github.com/zelda19/godot_farm)** (Godot + pixel art)
 - 🌱 Learning **Godot Engine** and practicing **2D/pixel art**
 - 🎯 Goal: Ship a complete game and land into the game industry
-- 💼 IT Intern at **National Water Resources Board (NWRB)**
+- 💼 Intern at **National Water Resources Board (NWRB)**
 - 🎓 **BS Information Technology** — ICCT Colleges (Graduated Dec 2025)
 - 📫 Reach me: **ceejaymaghanoy1@gmail.com**
 
