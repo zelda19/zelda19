@@ -6,7 +6,7 @@ Aspiring game developer. Currently learning Godot.
 
 ### About Me
 
-- 🎮 Working on a **[simple farm game](https://github.com/zelda19/godot_farm)** (Godot + pixel art)
+- 🎮 Working on a (Godot + pixel art)
 - 🌱 Learning **Godot Engine** and practicing **2D/pixel art**
 - 🎯 Goal: Ship a complete game and land into the game industry
 - 💼 Intern at **National Water Resources Board (NWRB)**
