@@ -10,7 +10,7 @@ Aspiring game developer. Currently learning Godot.
 - 🌱 Learning **Godot Engine** and practicing **2D/pixel art**
 - 🎯 Goal: Ship a complete game and land into the game industry
 - 💼 Intern at **National Water Resources Board (NWRB)**
-- 🎓 **BS Information Technology** — ICCT Colleges (Graduated Dec 2025)
+- 🎓 **BS Information Technology** — ICCT Colleges 
 - 📫 Reach me: **ceejaymaghanoy1@gmail.com**
 
 ---
