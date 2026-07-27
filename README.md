@@ -1,6 +1,6 @@
 # Hi,👋 I'm Ceejay Maghanoy
 
-Aspiring game developer. Currently learning Godot.
+IT graduate with hands on Linux/sysadmin and networking experience, currently building backend dev skills and game dev 
 
 ---
 
