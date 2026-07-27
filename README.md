@@ -7,6 +7,7 @@ IT graduate with hands on Linux/sysadmin and networking experience, currently bu
 ### About Me
 
 - 🎮 Working on a (Godot + pixel art)
+- 🖥️  daily drive Linux, home lab, hardware troubleshooting
 - 🌱 Learning **Godot Engine** and practicing **2D/pixel art**
 - 🎯 Goal: Ship a complete game and land into the game industry
 - 💼 Intern at **National Water Resources Board (NWRB)**
