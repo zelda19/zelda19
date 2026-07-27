@@ -1,6 +1,6 @@
 # Hi,👋 I'm Ceejay Maghanoy
 
-IT graduate with hands on Linux/sysadmin and networking experience, currently building backend dev skills and game dev 
+IT graduate with hands on linux and networking experience, currently building backend dev skills and game dev 
 
 ---
 
