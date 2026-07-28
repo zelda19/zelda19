@@ -1,4 +1,4 @@
-# Hi,👋 I'm Ceejay Maghanoy
+# Hi,👋 I'm Cee jay Maghanoy
 
 IT graduate with hands on linux and networking experience, currently building backend dev skills and game dev 
 
