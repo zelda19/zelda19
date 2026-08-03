@@ -6,15 +6,12 @@ IT graduate with hands on linux and networking, currently building backend dev s
 
 ### About Me
 
-- 🎮 Working on a (Godot + pixel art)
-- 🖥️ Daily drive Linux, home lab, hardware troubleshooting
-- 🌐 CCNA certified (Networks & Cyber Security fundamentals)
-- 🌱 Learning **Godot Engine** and practicing **2D/pixel art**
-- 🎯 Goal: Ship a complete game and land into the game industry
-- 💼 Intern at **National Water Resources Board (NWRB)**
-- 🎓 **BS Information Technology** — ICCT Colleges 
-- 📫 Reach me: **ceejaymaghanoy1@gmail.com**
-
+- 🌐 CCNA certified (Networking & Cybersecurity fundamentals)
+- 🖥️ Daily-drive Linux user — home lab, sysadmin & hardware troubleshooting
+- 💼 IT Intern at National Water Resources Board (NWRB)
+- 🎓 BS Information Technology — ICCT Colleges
+- 🎮 Side project: Building a 2D game in Godot Engine (learning game dev + pixel art)
+- 📫 Reach me: ceejaymaghanoy1@gmail.com
 ---
 
 ### Tech Stack
