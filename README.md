@@ -7,7 +7,7 @@ IT graduate with hands on linux and networking, currently building backend dev s
 ### About Me
 
 - 🎮 Working on a (Godot + pixel art)
-- 🖥️  daily drive Linux, home lab, hardware troubleshooting
+- 🖥️ Daily drive Linux, home lab, hardware troubleshooting
 - 🌐 CCNA certified (Networks & Cyber Security fundamentals)
 - 🌱 Learning **Godot Engine** and practicing **2D/pixel art**
 - 🎯 Goal: Ship a complete game and land into the game industry
