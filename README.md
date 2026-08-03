@@ -7,7 +7,7 @@ IT graduate with hands on linux and networking, currently building backend dev s
 ### About Me
 
 - 🌐 CCNA certified (Networking & Cybersecurity fundamentals)
-- 🖥️ Daily-drive Linux user — home lab, sysadmin & hardware troubleshooting
+- 🖥️ Daily drive Linux user - home lab, hardware troubleshooting
 - 💼 IT Intern at National Water Resources Board (NWRB)
 - 🎓 BS Information Technology — ICCT Colleges
 - 🎮 Side project: Building a 2D game in Godot Engine (learning game dev + pixel art)
