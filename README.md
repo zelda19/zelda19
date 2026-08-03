@@ -8,7 +8,7 @@ IT graduate with hands on linux and networking, currently building backend dev s
 
 - 🌐 CCNA certified (Networking & Cybersecurity fundamentals)
 - 🖥️ Daily drive Linux user - home lab, hardware troubleshooting
-- 💼 IT Intern at National Water Resources Board (NWRB)
+- 💼 Intern: National Water Resources Board (NWRB) | Oct - Dec 2025
 - 🎓 BS Information Technology - ICCT Colleges
 - 🎮 Side projects: Building a 2D game in Godot Engine (learning game dev + pixel art)
 - 📫 Reach me: ceejaymaghanoy1@gmail.com
