@@ -46,6 +46,6 @@ IT graduate with hands on linux and networking, currently building backend dev s
 | [Home Server](https://github.com/zelda19/Home-Server) | Fedora, SSH, Jellyfin, Samba | ✅ Done | Turned an old HP ProBook into a media server |
 | [Inventory System](https://github.com/zelda19/inventory-management-system) | Excel, VBA | ✅ Done | Auto reorder alerts + dashboard |
 | [Gas Leak App](https://github.com/zelda19/lalala) | Flutter, Firebase | ✅ Done | Mobile gas leak monitor |
-| [Bitwareden self-hosted(https://github.com/zelda19/bitwarden-ame) | ✅ Done
+| [Bitwaredenself-hosted](https://github.com/zelda19/bitwarden-ame) | ✅ Done
 
 ---
