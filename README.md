@@ -6,7 +6,7 @@ IT graduate with hands on linux and networking, currently building backend dev s
 
 ### About Me
 
-- 🌐 CCNA certified (Networking & Cybersecurity fundamentals)
+- 🌐 CCNA(Networking & Cybersecurity fundamentals)
 - 🖥️ Daily drive Linux user - home lab, hardware troubleshooting
 - 💼 Intern: National Water Resources Board (NWRB) |
 - 🎓 BS Information Technology 
