@@ -39,12 +39,3 @@ IT graduate with hands on linux and networking, currently building backend dev s
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" alt="Linux" title="Linux"> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="30" height="30" alt="Arch Linux" title="Arch Linux">
 
-### Projects
-
-| Project | Stack | Status | What it does |
-|---|---|---|---|
-| [Home Server](https://github.com/zelda19/Home-Server) | Fedora, SSH, Jellyfin, Samba | ✅ Done | Turned an old HP ProBook into a media server |
-| [Inventory System](https://github.com/zelda19/inventory-management-system) | Excel, VBA | ✅ Done | Auto reorder alerts + dashboard |
-| [Bitwareden self-hosted](https://github.com/zelda19/bitwarden-ame) |Docker   | ✅ Done | Password manager
-
----
