@@ -5,14 +5,6 @@
 **IT GRADUATE • LINUX ENTHUSIAST • GAME DEV**  
 <sub>BUILDING BACKEND SKILLS AND 2D GAMES • CCNA CERTIFIED</sub>
 
-<img src="https://img.shields.io/badge/BS-INFO%20TECH-111827?style=for-the-badge" alt="Degree" />
-<img src="https://img.shields.io/badge/LINUX-DAILY%20DRIVER-111827?style=for-the-badge" alt="Linux" />
-<img src="https://img.shields.io/badge/GODOT-GAME%20DEV-111827?style=for-the-badge" alt="Game Dev" />
-
-</div>
-
-<br />
-
 <table>
 <tr>
 <td width="62%" valign="top">
