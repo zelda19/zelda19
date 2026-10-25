@@ -64,7 +64,7 @@
 
 <img src="https://skillicons.dev/icons?i=git,vscode,linux,arch&perline=4" alt="Tools" />
 
-<br/><sub>Git · VS Code · Linux · Arch Linux</sub>
+<br/><sub>Git · VS Code · Linux</sub>
 
 </td>
 </tr>
