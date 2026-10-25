@@ -1,7 +1,7 @@
 <h1 align="center">Hi, 👋 I'm Cee jay Maghanoy</h1>
 
 <p align="center">
-  <b>IT GRADUATE • LINUX ENTHUSIAST • GAME DEV</b><br/>
+  <b>IT GRADUATE • LINUX ENTHUSIAST </b><br/>
   <sub>BUILDING BACKEND SKILLS AND 2D GAMES • CCNA CERTIFIED</sub>
 </p>
 
