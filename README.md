@@ -1,9 +1,9 @@
-<div align="center">
+<h1 align="center">Hi, 👋 I'm Cee jay Maghanoy</h1>
 
-# Hi, 👋 I'm Cee jay Maghanoy
-
-**IT GRADUATE • LINUX ENTHUSIAST • GAME DEV**  
-<sub>BUILDING BACKEND SKILLS AND 2D GAMES • CCNA CERTIFIED</sub>
+<p align="center">
+  <b>IT GRADUATE • LINUX ENTHUSIAST • GAME DEV</b><br/>
+  <sub>BUILDING BACKEND SKILLS AND 2D GAMES • CCNA CERTIFIED</sub>
+</p>
 
 <table>
 <tr>
@@ -29,13 +29,8 @@
 </tr>
 </table>
 
-<div align="center">
-
-## ◈ Technology Universe
-
-<sub>A practical stack for networking, backend, and game development.</sub>
-
-</div>
+<h2 align="center">◈ Technology Universe</h2>
+<p align="center"><sub>A practical stack for networking, backend, and game development.</sub></p>
 
 <table>
 <tr>
@@ -45,7 +40,7 @@
 
 <img src="https://skillicons.dev/icons?i=godot,java,python,js,flutter&perline=4" alt="Game Dev and Languages" />
 
-<sub>Godot · Java · Python · JavaScript · Flutter</sub>
+<br/><sub>Godot · Java · Python · JavaScript · Flutter</sub>
 
 </td>
 <td width="33%" valign="top">
@@ -54,7 +49,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,flask,mysql,firebase&perline=4" alt="Web and Backend" />
 
-<sub>HTML5 · CSS3 · Flask · MySQL · Firebase</sub>
+<br/><sub>HTML5 · CSS3 · Flask · MySQL · Firebase</sub>
 
 </td>
 <td width="33%" valign="top">
@@ -63,7 +58,7 @@
 
 <img src="https://skillicons.dev/icons?i=git,vscode,linux,arch&perline=4" alt="Tools" />
 
-<sub>Git · VS Code · Linux · Arch Linux</sub>
+<br/><sub>Git · VS Code · Linux · Arch Linux</sub>
 
 </td>
 </tr>
