@@ -5,11 +5,13 @@
   <sub>BUILDING BACKEND SKILLS AND 2D GAMES • CCNA CERTIFIED</sub>
 </p>
 
+<div align="center">
+
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="62%" valign="top" align="left">
 
-## ◈ About Me
+<h2>◈ About Me</h2>
 
 - 🌐 **CCNA** (Networking & Cybersecurity fundamentals)
 - 🖥️ **Daily drive Linux user** - home lab, hardware troubleshooting
@@ -19,7 +21,7 @@
 - 📫 **Reach me:** ceejaymaghanoy1@gmail.com | [Portfolio](https://zelda19.github.io/my-portfolio/)
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="38%" valign="middle" align="center">
 
 <img src="https://img.shields.io/badge/●%20STATUS-BUILDING-111827?style=for-the-badge" alt="Status building" />
 
@@ -29,32 +31,36 @@
 </tr>
 </table>
 
-<h2 align="center">◈ Technology Universe</h2>
+</div>
+
+<h2 align="center">◈ Tech </h2>
 <p align="center"><sub>A practical stack for networking, backend, and game development.</sub></p>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### ◉ Game Dev & App
+<h3 align="center">◉ Game Dev & App</h3>
 
-<img src="https://skillicons.dev/icons?i=godot,java,python,js,flutter&perline=4" alt="Game Dev and Languages" />
+<img src="https://skillicons.dev/icons?i=godot,java,python,js,flutter&perline=5" alt="Game Dev and Languages" />
 
 <br/><sub>Godot · Java · Python · JavaScript · Flutter</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### ⌘ Web & Backend
+<h3 align="center">⌘ Web & Backend</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,flask,mysql,firebase&perline=4" alt="Web and Backend" />
+<img src="https://skillicons.dev/icons?i=html,css,flask,mysql,firebase&perline=5" alt="Web and Backend" />
 
 <br/><sub>HTML5 · CSS3 · Flask · MySQL · Firebase</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### ☁ Tools (Arch btw)
+<h3 align="center">☁ Tools (Arch btw)</h3>
 
 <img src="https://skillicons.dev/icons?i=git,vscode,linux,arch&perline=4" alt="Tools" />
 
@@ -63,3 +69,5 @@
 </td>
 </tr>
 </table>
+
+</div>
