@@ -17,7 +17,7 @@
 - 🖥️ **Daily drive Linux user** - home lab, hardware troubleshooting
 - 💼 **Intern:** National Water Resources Board (NWRB)
 - 🎓 **BS Information Technology**
-- 🎮 **Side projects:** Building a 2D game in Godot Engine (learning game dev + pixel art)
+- 🎮 **Side projects:** flutter
 - 📫 **Reach me:** ceejaymaghanoy1@gmail.com | [Portfolio](https://zelda19.github.io/my-portfolio/)
 
 </td>
