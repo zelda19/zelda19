@@ -98,7 +98,3 @@
     width="500"
   />
 </p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=zelda19&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
