@@ -89,6 +89,16 @@
   <img src="https://img.shields.io/badge/OpenCode-2563EB?style=for-the-badge&logo=terminal&logoColor=white" alt="OpenCode" />
 </p>
 
+<h2 align="center">◈ Most Used Languages</h2>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=zelda19&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Most Used Languages"
+    width="450"
+  />
+</p>
+
 <h2 align="center">◈ GitHub Streak</h2>
 
 <p align="center">
