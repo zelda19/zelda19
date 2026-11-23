@@ -89,6 +89,15 @@
   <img src="https://img.shields.io/badge/OpenCode-2563EB?style=for-the-badge&logo=terminal&logoColor=white" alt="OpenCode" />
 </p>
 
+<h2 align="center">◈ GitHub Analytics</h2>
+
+<p align="center">
+  <sub>Code, contributions, and everything in between.</sub>
+</p>
+
+<div align="center">
+
+
 <h2 align="center">◈ GitHub Streak</h2>
 
 <p align="center">
