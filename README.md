@@ -2,7 +2,7 @@
 
 <p align="center">
   <b> IT GRAD • LINUX • NETWORKING </b><br/>
-  <sub>BUILDING BACKEND SKILLS AND 2D GAMES • CCNA CERTIFIED</sub>
+  <sub>BUILDING BACKEND SKILLS AND AUTOMATION • CCNA</sub>
 </p>
 
 <div align="center">
