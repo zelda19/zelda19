@@ -75,7 +75,7 @@
 <h2>◈ Tools & Deploy</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,cloudflare,figma&perline=7" alt="Development and Deployment Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&perline=7" alt="Development and Deployment Tools" />
 </p>
 
 <h2>◈ AI Tools</h2>
