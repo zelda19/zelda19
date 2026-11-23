@@ -86,7 +86,7 @@
   <a href="https://openai.com/"><img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge" alt="Codex" /></a>
   <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /></a>
 </p>
-<h2>◈ GitHub Streak</h2>
+<h2 align="center">◈ GitHub Streak</h2>
 
 <p>
   <img src="https://streak-stats.demolab.com?user=zelda19&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
