@@ -70,3 +70,29 @@
 </table>
 
 </div>
+
+
+<h2>◈ Tools & Deploy</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,cloudflare,figma&perline=7" alt="Development and Deployment Tools" />
+</p>
+
+<h2>◈ AI Tools</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+</p>
+
+<h2>◈ GitHub Streak</h2>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=zelda19&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
