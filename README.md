@@ -1,148 +1,75 @@
 
-<h1 align="center">Hi, I'm Cee jay Maghanoy 👋</h1>
+<h1 align="center">Hi, I'm Cee Jay Maghanoy 👋</h1>
 
 <p align="center">
   <b>IT GRADUATE · LINUX ENTHUSIAST · ASPIRING DEVELOPER</b>
-  <br/>
 </p>
 
-<h2 align="center">◈ About Me</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="70%" valign="middle" align="left">
-
-- 🎓 **Education:** BS Information Technology
-- 🌐 **Networking:** Cisco networking and cybersecurity
-- 🖥️ **Systems:** Linux and Windows administration
-- 🔧 **IT Support:** Hardware and software troubleshooting
-- 💻 **Development:** Python, backend, and automation
-- 🎮 **Interests:** Game development and homelabbing
-- 💼 **Career:** Open to entry-level IT opportunities
-
-
-<td width="30%" valign="middle" align="center">
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch" width="70" alt="Arch Linux"/>
-  <br/>
-  <sub>Arch btw.</sub>
+  🎓 BS Information Technology Graduate<br/>
+  🌐 Cisco Networking and Cybersecurity Fundamentals<br/>
+  🖥️ Linux Daily Driver (Arch btw.)<br/>
+  🔧 IT Support, System Administration and Self-hosting<br/>
+  🌱 Currently Learning C, Python and Backend Development<br/>
+  🎮 Game Development and Open Source Enthusiast<br/>
+  💼 Open to Entry-Level IT Opportunities
 </p>
+
+<h3 align="center">Connect with me</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-18181B?style=for-the-badge" alt="Building"/>
-  <br/>
-  <sub>BUILD · BREAK · FIX</sub>
+  <a href="https://linkedin.com/in/ceejaymaghanoy">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ceejaymaghanoy1@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/>
+  </a>
+  <a href="https://zelda19.github.io/my-portfolio/">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="Portfolio"/>
+  </a>
 </p>
 
-</td>
+<h2 align="center">Tech Stack</h2>
 
-</table>
-
-</div>
-
----
-
-<h2 align="center">◈ Tech Stack</h2>
+<h3 align="center">Programming Languages</h3>
 
 <p align="center">
-  <sub>Technologies I work with and actively explore.</sub>
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,dart" alt="Programming Languages"/>
 </p>
 
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-<h3>Operating Systems</h3>
-
-<img src="https://skillicons.dev/icons?i=arch,mint,windows&perline=4" alt="Operating Systems"/>
-
-<br/>
-
-<sub>Arch · Mint · Windows</sub>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<h3>Programming</h3>
-
-<img src="https://skillicons.dev/icons?i=python,java,js,c&perline=4" alt="Programming Languages"/>
-
-<br/>
-
-<sub>Python · Java · JavaScript · C</sub>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<h3>Web &amp; Backend</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,flask&perline=4" alt="Web and Backend"/>
-
-<br/>
-
-<sub>HTML · CSS · Flask</sub>
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top" align="center">
-
-<h3>Databases</h3>
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite&perline=4" alt="Databases"/>
-
-<br/>
-
-<sub>MySQL · Firebase · SQLite</sub>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<h3>App &amp; Game Dev</h3>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,godot&perline=4" alt="App and Game Development"/>
-
-<br/>
-
-<sub>Flutter · Dart · Godot</sub>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<h3>Infrastructure</h3>
-
-<img src="https://skillicons.dev/icons?i=linux,docker,bash&perline=4" alt="Infrastructure"/>
-
-<br/>
-
-<sub>Linux · Docker · Shell Scripting</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<h2 align="center">◈ Development &amp; Productivity Tools</h2>
+<h3 align="center">Web &amp; Backend</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=5" alt="Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=html,css,flask" alt="Web and Backend"/>
 </p>
+
+<h3 align="center">Databases</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Office-18181B?style=for-the-badge&logoColor=white" alt="Microsoft Office"/>
-  <img src="https://img.shields.io/badge/Excel-18181B?style=for-the-badge&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" alt="Databases"/>
 </p>
 
----
+<h3 align="center">Operating Systems</h3>
 
-<h2 align="center">◈ GitHub Activity</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arch,linux,mint,windows" alt="Operating Systems"/>
+</p>
+
+<h3 align="center">Tools &amp; Infrastructure</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,bash,vscode" alt="Tools and Infrastructure"/>
+</p>
+
+<h3 align="center">App &amp; Game Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,godot" alt="App and Game Development"/>
+</p>
+
+<h2 align="center">GitHub Activity</h2>
 
 <p align="center">
   <img
@@ -158,14 +85,4 @@
     width="95%"
     alt="GitHub Contribution Graph"
   />
-</p>
-
----
-
-<p align="center">
-  <sub>LEARN · TROUBLESHOOT · AUTOMATE · BUILD</sub>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zelda19&color=18181B&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
