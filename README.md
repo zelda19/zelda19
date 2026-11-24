@@ -37,7 +37,7 @@ IT graduate · Linux enthusiast · Aspiring developer
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,godot" />
 
-**Infrastructure & Tools**
+**Tools**
 
 <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode" />
 
