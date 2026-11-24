@@ -60,33 +60,9 @@ I enjoy working with Linux systems, self-hosted services, hardware, and software
 </tr>
 </table>
 
-<h2>◈ Experience</h2>
-
-**IT Intern | National Water Resources Board (NWRB)**
-
-`October 2025 — December 2025`
-
-- Provided technical support to 50+ employees across departments.
-- Assisted with hardware troubleshooting and software maintenance.
-- Supported data center operations, server room monitoring, and infrastructure checks.
-- Gained exposure to enterprise systems administration.
-
-<h2>◈ Education & Certifications</h2>
-
-**Bachelor of Science in Information Technology**
-
-ICCT Colleges · December 2025
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-</p>
-
-- CCNA: Introduction to Networks
-- Introduction to Cybersecurity
-
 ---
 
-<h2 align="center">◈ Technical Stack</h2>
+<h2 align="center">◈ Tech Stack</h2>
 
 <p align="center">
   <sub>Technologies I work with and actively explore.</sub>
@@ -175,64 +151,6 @@ ICCT Colleges · December 2025
   <img src="https://img.shields.io/badge/Kernel_Management-18181B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Hardware_Troubleshooting-18181B?style=for-the-badge"/>
 </p>
-
----
-
-<h2>◈ Featured Projects</h2>
-
-<h3>01 · ame-organizer</h3>
-
-Python command-line utility for automatically organizing downloaded files into categorized folders.
-
-- Automated file categorization.
-- Preview mode and selective file operations.
-- Duplicate filename handling.
-- Protection against accidental file overwrites.
-
-<img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/CLI-18181B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Automation-18181B?style=flat-square"/>
-
-[View Repository](https://github.com/zelda19/ame-organizer)
-
-<h3>02 · Self-Hosted Password Manager</h3>
-
-Deployed a self-hosted Bitwarden-compatible password vault using Vaultwarden, Docker, and Caddy.
-
-- Configured Caddy as a reverse proxy.
-- Implemented local HTTPS/TLS.
-- Stored persistent container data and SQLite databases on external storage.
-
-<img src="https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vaultwarden-18181B?style=flat-square&logo=bitwarden&logoColor=white"/>
-<img src="https://img.shields.io/badge/Caddy-18181B?style=flat-square&logo=caddy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-18181B?style=flat-square&logo=sqlite&logoColor=white"/>
-
-<h3>03 · Linux System & Hardware Optimization</h3>
-
-Personal Linux environment focused on system configuration, troubleshooting, and hardware performance.
-
-- Kernel management and GRUB troubleshooting.
-- Shell scripting and systemd service configuration.
-- Power management using TLP.
-- Fan control using ThinkFan.
-- CPU stress testing and temperature monitoring.
-
-<img src="https://img.shields.io/badge/Arch_Linux-18181B?style=flat-square&logo=archlinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-18181B?style=flat-square&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/System_Administration-18181B?style=flat-square"/>
-
-<h3>04 · Inventory Management System</h3>
-
-Excel-based inventory tracking system with automated stock monitoring.
-
-- Automated reorder alerts.
-- Inventory tracking and stock management.
-- Visual dashboard for monitoring inventory levels.
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-18181B?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Management-18181B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Dashboard-18181B?style=flat-square"/>
 
 ---
 
