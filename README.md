@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Ceejay Maghanoy 👋</h1>
+<h1 align="center">Hi, I'm Cee jay Maghanoy 👋</h1>
 
 <p align="center">
   <b>IT GRADUATE · LINUX ENTHUSIAST · ASPIRING DEVELOPER</b>
