@@ -72,13 +72,13 @@
 </div>
 
 
-<h2>◈ Tools & Deploy</h2>
+<h2 align="center'>◈ Tools & Deploy</h2>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&perline=7" alt="Development and Deployment Tools" />
 </p>
 
-<h2>◈ AI Tools</h2>
+<h2 align="center">◈ AI Tools</h2>
 
 
 <p align="center">
