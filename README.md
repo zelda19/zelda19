@@ -45,7 +45,7 @@
 
 <br/>
 
-<sub>Arch Linux, btw.</sub>
+<sub>Arch btw.</sub>
 
 <br/><br/>
 
@@ -77,11 +77,11 @@
 
 <h3>Operating Systems</h3>
 
-<img src="https://skillicons.dev/icons?i=arch,fedora,mint,windows&perline=4" alt="Operating Systems"/>
+<img src="https://skillicons.dev/icons?i=arch,mint,windows&perline=4" alt="Operating Systems"/>
 
 <br/>
 
-<sub>Arch · Fedora · Mint · Windows</sub>
+<sub>Arch · Mint · Windows</sub>
 
 </td>
 <td width="33%" valign="top" align="center">
