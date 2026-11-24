@@ -21,14 +21,17 @@
 
 ---
 
+
 <h2 align="center">◈ About Me</h2>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="70%" valign="middle" align="left">
 
 - 🎓 **Education:** BS Information Technology
-- 🌐 **Networking:** Cisco networking and cybersecurity fundamentals
+- 🌐 **Networking:** Cisco networking and cybersecurity
 - 🖥️ **Systems:** Linux and Windows administration
 - 🔧 **IT Support:** Hardware and software troubleshooting
 - 💻 **Development:** Python, backend, and automation
@@ -56,12 +59,7 @@
 </tr>
 </table>
 
-<h2 align="center">◈ Certifications</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Introduction_to_Networks-18181B?style=for-the-badge&logo=cisco&logoColor=white" alt="Introduction to Networks"/>
-  <img src="https://img.shields.io/badge/Introduction_to_Cybersecurity-18181B?style=for-the-badge&logo=cisco&logoColor=white" alt="Introduction to Cybersecurity"/>
-</p>
+</div>
 
 ---
 
