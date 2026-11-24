@@ -161,11 +161,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <sub>LEARN · TROUBLESHOOT · AUTOMATE · BUILD</sub>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zelda19&color=18181B&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
