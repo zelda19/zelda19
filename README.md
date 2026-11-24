@@ -1,55 +1,29 @@
 
-<h1 align="center">Hi, I'm Cee jay Maghanoy 👋</h1>
+<h1 align="center">Hi, I'm Cee Jay Maghanoy 👋</h1>
 
 <p align="center">
-  <b>IT GRADUATE · LINUX ENTHUSIAST · ASPIRING DEVELOPER</b>
-  <br/>
+  <b>IT Graduate · Linux Enthusiast · Aspiring Developer</b>
 </p>
 
 <h2 align="center">◈ About Me</h2>
 
-<div align="center">
-
-<table>
-<tr>
-<td width="70%" valign="middle" align="left">
-
-- 🎓 **Education:** BS Information Technology
-- 🌐 **Networking:** Cisco networking and cybersecurity
-- 🖥️ **Systems:** Linux and Windows administration
-- 🔧 **IT Support:** Hardware and software troubleshooting
-- 💻 **Development:** Python, backend, and automation
-- 🎮 **Interests:** Game development and homelabbing
-- 💼 **Career:** Open to entry-level IT opportunities
-
-
-<td width="30%" valign="middle" align="center">
+<p align="center">
+  I'm an IT graduate interested in Linux, networking, and software development.
+  <br/>
+  Currently exploring Python, automation, game development, and homelabbing.
+  <br/>
+  Open to entry-level IT opportunities.
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch" width="70" alt="Arch Linux"/>
+  <img src="https://skillicons.dev/icons?i=arch" width="50" alt="Arch Linux"/>
   <br/>
   <sub>Arch btw.</sub>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-18181B?style=for-the-badge" alt="Building"/>
-  <br/>
-  <sub>BUILD · BREAK · FIX</sub>
-</p>
-
-</td>
-
-</table>
-
-</div>
-
 ---
 
 <h2 align="center">◈ Tech Stack</h2>
-
-<p align="center">
-  <sub>Technologies I work with and actively explore.</sub>
-</p>
 
 <div align="center">
 
@@ -59,7 +33,7 @@
 
 <h3>Operating Systems</h3>
 
-<img src="https://skillicons.dev/icons?i=arch,mint,windows&perline=4" alt="Operating Systems"/>
+<img src="https://skillicons.dev/icons?i=arch,mint,windows" alt="Operating Systems"/>
 
 <br/>
 
@@ -70,7 +44,7 @@
 
 <h3>Programming</h3>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,c&perline=4" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,c" alt="Programming Languages"/>
 
 <br/>
 
@@ -81,7 +55,7 @@
 
 <h3>Web &amp; Backend</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,flask&perline=4" alt="Web and Backend"/>
+<img src="https://skillicons.dev/icons?i=html,css,flask" alt="Web and Backend"/>
 
 <br/>
 
@@ -95,7 +69,7 @@
 
 <h3>Databases</h3>
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite&perline=4" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" alt="Databases"/>
 
 <br/>
 
@@ -106,7 +80,7 @@
 
 <h3>App &amp; Game Dev</h3>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,godot&perline=4" alt="App and Game Development"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,godot" alt="App and Game Development"/>
 
 <br/>
 
@@ -117,7 +91,7 @@
 
 <h3>Infrastructure</h3>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,bash&perline=4" alt="Infrastructure"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,bash" alt="Infrastructure"/>
 
 <br/>
 
@@ -132,7 +106,7 @@
 <h2 align="center">◈ Development &amp; Productivity Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=5" alt="Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
 </p>
 
 <p align="center">
