@@ -140,8 +140,6 @@
   <img src="https://img.shields.io/badge/Excel-18181B?style=for-the-badge&logoColor=white" alt="Microsoft Excel"/>
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zelda19&color=18181B&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
