@@ -19,7 +19,7 @@ IT graduate · Linux enthusiast · Aspiring developer
 
 **Operating Systems**
 
-<img src="https://skillicons.dev/icons?i=arch,mint,windows" />
+<img src="https://skillicons.dev/icons?i=arch,windows" />
 
 **Programming Languages**
 
