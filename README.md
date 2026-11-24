@@ -142,25 +142,6 @@
 
 ---
 
-<h2 align="center">◈ GitHub Activity</h2>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=zelda19&theme=github-dark-blue&hide_border=true&background=00000000"
-    width="500"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=zelda19&theme=github-compact&hide_border=true&bg_color=00000000"
-    width="95%"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zelda19&color=18181B&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
