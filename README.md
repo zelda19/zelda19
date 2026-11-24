@@ -7,18 +7,6 @@
   <sub>IT Support · Networking · System Administration · Automation</sub>
 </p>
 
-<p align="center">
-  <a href="https://zelda19.github.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/ceejaymaghanoy">
-    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ceejaymaghanoy1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
 ---
 
 
