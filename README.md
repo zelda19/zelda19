@@ -44,4 +44,3 @@ IT graduate · Linux enthusiast · Aspiring developer
 ## GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=zelda19&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-<img src="https://komarev.com/ghpvc/?username=zelda19&color=18181B&style=flat-square&label=PROFILE+VIEWS" />
