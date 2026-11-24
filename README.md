@@ -3,15 +3,17 @@
 
 IT graduate · Linux enthusiast · Aspiring developer
 
-### About me
+## About Me
 
-Interested in Linux, networking, software development, and cybersecurity.
+- 🎓 **Education:** BS Information Technology
+- 🌐 **Networking:** Cisco networking and cybersecurity
+- 🖥️ **Systems:** Linux and Windows administration
+- 🔧 **IT Support:** Hardware and software troubleshooting
+- 💻 **Development:** Python, backend, and automation
+- 🎮 **Interests:** Game development and homelabbing
+- 💼 **Career:** Open to entry-level IT opportunities
 
-Currently exploring Python, C, automation, and game development.
-
-- Enjoy tinkering with Linux and homelabbing
-- Open to entry-level IT opportunities
-- Arch btw.
+<sub>Arch btw.</sub>
 
 ## Tech Stack
 
@@ -42,6 +44,4 @@ Currently exploring Python, C, automation, and game development.
 ## GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=zelda19&theme=github-dark&hide_border=true" alt="GitHub Streak" />
----
-
 <img src="https://komarev.com/ghpvc/?username=zelda19&color=18181B&style=flat-square&label=PROFILE+VIEWS" />
