@@ -37,7 +37,7 @@
 
 <br/>
 
-<sub>LEARN · BUILD · BREAK · FIX</sub>
+<sub>BUILD · BREAK · FIX</sub>
 
 </td>
 </tr>
