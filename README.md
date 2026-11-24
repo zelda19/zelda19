@@ -1,75 +1,171 @@
 
-<h1>Hi 👋, I'm Cee Jay Maghanoy</h1>
+<h1 align="center">Hi, I'm Cee jay Maghanoy 👋</h1>
 
-<h3>IT Graduate | Linux Enthusiast | Aspiring Developer</h3>
-
-- 🎓 BS Information Technology graduate
-- 🌐 Cisco networking and cybersecurity fundamentals
-- 🖥️ Linux daily driver (Arch btw.)
-- 🔧 Interested in IT support, system administration, and self-hosting
-- 🌱 Currently learning C, Python automation, and backend development
-- 🎮 Interested in game development and open-source software
-- 💼 Open to entry-level IT opportunities
-- 📫 Reach me at **ceejaymaghanoy1@gmail.com**
-
-<h3>Connect with me:</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/ceejaymaghanoy">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ceejaymaghanoy1@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/>
-  </a>
-  <a href="https://zelda19.github.io/my-portfolio/">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="Portfolio"/>
-  </a>
+<p align="center">
+  <b>IT GRADUATE · LINUX ENTHUSIAST · ASPIRING DEVELOPER</b>
+  <br/>
 </p>
 
-<h3>Languages:</h3>
+<h2 align="center">◈ About Me</h2>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,dart" alt="Programming Languages"/>
+<div align="center">
+
+<table>
+<tr>
+<td width="70%" valign="middle" align="left">
+
+- 🎓 **Education:** BS Information Technology
+- 🌐 **Networking:** Cisco networking and cybersecurity
+- 🖥️ **Systems:** Linux and Windows administration
+- 🔧 **IT Support:** Hardware and software troubleshooting
+- 💻 **Development:** Python, backend, and automation
+- 🎮 **Interests:** Game development and homelabbing
+- 💼 **Career:** Open to entry-level IT opportunities
+
+
+<td width="30%" valign="middle" align="center">
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arch" width="70" alt="Arch Linux"/>
+  <br/>
+  <sub>Arch btw.</sub>
 </p>
 
-<h3>Frontend &amp; Frameworks:</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,flutter" alt="Frontend and Frameworks"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-18181B?style=for-the-badge" alt="Building"/>
+  <br/>
+  <sub>BUILD · BREAK · FIX</sub>
 </p>
 
-<h3>Backend &amp; Databases:</h3>
+</td>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,mysql,firebase,sqlite" alt="Backend and Databases"/>
+</table>
+
+</div>
+
+---
+
+<h2 align="center">◈ Tech Stack</h2>
+
+<p align="center">
+  <sub>Technologies I work with and actively explore.</sub>
 </p>
 
-<h3>Operating Systems:</h3>
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,arch,mint,windows" alt="Operating Systems"/>
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+<h3>Operating Systems</h3>
+
+<img src="https://skillicons.dev/icons?i=arch,mint,windows&perline=4" alt="Operating Systems"/>
+
+<br/>
+
+<sub>Arch · Mint · Windows</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<h3>Programming</h3>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,c&perline=4" alt="Programming Languages"/>
+
+<br/>
+
+<sub>Python · Java · JavaScript · C</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<h3>Web &amp; Backend</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,flask&perline=4" alt="Web and Backend"/>
+
+<br/>
+
+<sub>HTML · CSS · Flask</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top" align="center">
+
+<h3>Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite&perline=4" alt="Databases"/>
+
+<br/>
+
+<sub>MySQL · Firebase · SQLite</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<h3>App &amp; Game Dev</h3>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,godot&perline=4" alt="App and Game Development"/>
+
+<br/>
+
+<sub>Flutter · Dart · Godot</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<h3>Infrastructure</h3>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,bash&perline=4" alt="Infrastructure"/>
+
+<br/>
+
+<sub>Linux · Docker · Shell Scripting</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<h2 align="center">◈ Development &amp; Productivity Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=5" alt="Development Tools"/>
 </p>
 
-<h3>Tools &amp; Infrastructure:</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,bash,vscode" alt="Tools and Infrastructure"/>
-</p>
-
-<h3>Game Development:</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=godot" alt="Godot"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Office-18181B?style=for-the-badge&logoColor=white" alt="Microsoft Office"/>
+  <img src="https://img.shields.io/badge/Excel-18181B?style=for-the-badge&logoColor=white" alt="Microsoft Excel"/>
 </p>
 
 ---
 
-<h3>GitHub Activity:</h3>
+<h2 align="center">◈ GitHub Activity</h2>
 
-<p align="left">
+<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=zelda19&theme=github-dark-blue&hide_border=true&background=00000000"
-    width="450"
+    width="500"
     alt="GitHub Streak"
   />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=zelda19&theme=github-compact&hide_border=true&bg_color=00000000"
+    width="95%"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+---
+
+<p align="center">
+  <sub>LEARN · TROUBLESHOOT · AUTOMATE · BUILD</sub>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zelda19&color=18181B&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
