@@ -42,5 +42,4 @@ IT graduate · Linux enthusiast · Aspiring developer
 <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode" />
 
 ## GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=zelda19&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=zelda19&theme=github-dark&hide_border=true&ring=FABD2F&fire=FABD2F&currStreakLabel=FABD2F&currStreakNum=FABD2F" alt="GitHub Streak" />
