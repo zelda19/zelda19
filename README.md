@@ -7,9 +7,6 @@
   <sub>IT Support · Networking · System Administration · Automation</sub>
 </p>
 
----
-
-
 <h2 align="center">◈ About Me</h2>
 
 <div align="center">
