@@ -4,7 +4,6 @@
 <p align="center">
   <b>IT GRADUATE · LINUX ENTHUSIAST · ASPIRING DEVELOPER</b>
   <br/>
-  <sub>IT Support · Networking · System Administration · Automation</sub>
 </p>
 
 <h2 align="center">◈ About Me</h2>
