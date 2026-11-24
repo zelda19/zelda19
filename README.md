@@ -39,11 +39,9 @@ Currently exploring Python, C, automation, and game development.
 
 <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode" />
 
-**Productivity**
+## GitHub Streak
 
-<img src="https://img.shields.io/badge/Microsoft_Office-18181B?style=flat-square" />
-<img src="https://img.shields.io/badge/Excel-18181B?style=flat-square" />
-
+<img src="https://streak-stats.demolab.com?user=zelda19&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 ---
 
 <img src="https://komarev.com/ghpvc/?username=zelda19&color=18181B&style=flat-square&label=PROFILE+VIEWS" />
