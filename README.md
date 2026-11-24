@@ -22,25 +22,23 @@
 - 🎮 **Interests:** Game development and homelabbing
 - 💼 **Career:** Open to entry-level IT opportunities
 
-</td>
+
 <td width="30%" valign="middle" align="center">
 
-<img src="https://skillicons.dev/icons?i=arch" width="70" alt="Arch Linux"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arch" width="70" alt="Arch Linux"/>
+  <br/>
+  <sub>Arch btw.</sub>
+</p>
 
-<br/>
-
-<sub>Arch btw.</sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING-18181B?style=for-the-badge" alt="Building"/>
-
-<br/>
-
-<sub>BUILD · BREAK · FIX</sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-18181B?style=for-the-badge" alt="Building"/>
+  <br/>
+  <sub>BUILD · BREAK · FIX</sub>
+</p>
 
 </td>
-</tr>
+
 </table>
 
 </div>
