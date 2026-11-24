@@ -23,14 +23,6 @@
 
 <h2>◈ About Me</h2>
 
-<table>
-<tr>
-<td width="70%" valign="top">
-
-Information Technology graduate with practical experience in technical support, IT operations, and system troubleshooting.
-
-I enjoy working with Linux systems, self-hosted services, hardware, and software. Currently building practical projects while developing my programming and infrastructure skills.
-
 - 🎓 **Education:** BS Information Technology
 - 🌐 **Networking:** Cisco networking and cybersecurity fundamentals
 - 🖥️ **Systems:** Linux administration and Windows
